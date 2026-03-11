@@ -1,7 +1,4 @@
-This is java file for github webhook
-
-To run this java file We need to compile
-To compile- javac 4
-new content
+This is for testing webhook trigger
+git scm polling
 
 
