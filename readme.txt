@@ -1,3 +1,3 @@
 This is for testing webhook trigger
 gud mrng
-testing wen hook 
+testing pulling cmd
